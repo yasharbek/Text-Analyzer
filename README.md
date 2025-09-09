@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Yasharbek** - [@yasharbek](https://github.com/yasharbek)
 
-- 💼 Portfolio: [GitHub Profile](https://github.com/yasharbek)
+-  Portfolio: [GitHub Profile](https://github.com/yasharbek)
 
 ## Acknowledgments
 
@@ -174,7 +174,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Python community for amazing tools and libraries
 
 ---
-
 ⭐ **If you find this project useful, please give it a star on GitHub!**
 ```
-
