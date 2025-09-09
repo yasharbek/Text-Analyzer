@@ -96,7 +96,7 @@ python text_analyzer.py
 | 14 | Analyze New File | Choose another file to analyze |
 | 15 | Logout | Return to login screen |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 text-analyzer-pro/
@@ -106,7 +106,7 @@ text-analyzer-pro/
 └── *.txt                # Your text files for analysis
 ```
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Built With
 - **🐍 Python** - Core programming language
@@ -122,7 +122,7 @@ users (id, username, password_hash, created_at)
 analysis_history (id, user_id, filename, file_path, file_size, analysis_date)
 ```
 
-## 📊 Sample Output
+## Sample Output
 
 ### Text Statistics Example
 ```
@@ -146,7 +146,7 @@ The text has a positive sentiment.
 The text is quite objective (factual information).
 ```
 
-## 🤝 Contributing
+## Contributing
 
 contributions are welcome! feel free to submit a Pull Request. for major changes, please open an issue first to discuss what you would like to change.
 
@@ -156,17 +156,17 @@ contributions are welcome! feel free to submit a Pull Request. for major changes
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+## Developer
 
 **Yasharbek** - [@yasharbek](https://github.com/yasharbek)
 
 - 💼 Portfolio: [GitHub Profile](https://github.com/yasharbek)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - spaCy team for excellent NLP library
 - TextBlob for sentiment analysis capabilities
